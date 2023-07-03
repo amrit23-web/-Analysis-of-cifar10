@@ -17,7 +17,7 @@ To run the project, the following dependencies are required:
 These dependencies can be installed using pip or any other package manager.
 
 # Instructions
-Clone the repository: git clone https://github.com/yourusername/cifar-10-classification.git
+Clone the repository: git clone https://github.com/amrit23-web/cifar-10-classification.git
 Navigate to the project directory: cd cifar-10-classification
 Run the model_training.ipynb notebook to preprocess the data, build the model, train it, and save the trained model.
 Once the model is trained and saved, you can use the model_evaluation.ipynb notebook to load the model, perform predictions on new images, and evaluate its performance.
@@ -30,6 +30,6 @@ This project showcases the use of deep learning and convolutional neural network
 
 Feel free to explore the notebooks and experiment with different techniques to further enhance the model's performance.
 
-For any issues or questions, please contact [your email address].
+For any issues or questions, please contact [amritanshus367@gmai.com].
 
 Note: Due credit should be given to the CIFAR-10 dataset creators and the TensorFlow library for providing the necessary resources to complete this project.
