@@ -1,4 +1,4 @@
-CIFAR-10 Image Classification using Deep Learning
+# CIFAR-10 Image Classification using Deep Learning
 This project focuses on building a deep learning model to classify CIFAR-10 images into 10 different categories. The model utilizes convolutional neural networks (CNN) implemented using TensorFlow framework. The CIFAR-10 dataset consists of 50,000 training images and 10,000 test images, with each image belonging to one of the following classes: airplane, automobile, bird, cat, deer, dog, frog, horse, ship, and truck.
 
 Project Structure
